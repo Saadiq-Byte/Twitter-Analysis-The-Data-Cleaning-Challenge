@@ -11,7 +11,7 @@ This project is a Python-based analysis of tweets related to the #datacleaningch
 The Organizers of the #datacleaningchallenge that took place in March are looking to start another challenge in April. I aim to provide insights on the data gotten from the challenge, how people perceive data cleaning, the most talked about tools which could give a hint on the tools the participants used and the strategies on how to make the next challenge even bigger.
 
 ## Data Sourcing 
-I gathered my data by using python Snscrape library. I scraped my twitter data using the #DataCleaningChallenge hashtagg from 1st of March to 31st of March 2023. The function I used to scrape the data is shown beloow
+I gathered my data by using python Snscrape library. I scraped my twitter data using the #DataCleaningChallenge hashtagg from 1st of March to 31st of March 2023. The function I used to scrape the data is shown below
 
 ```python
 # to define a function that scrapes tweet from tweet
